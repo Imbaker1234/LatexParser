@@ -1,0 +1,17 @@
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\LatexEquationGenerator.exe
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\LatexEquationGenerator.deps.json
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\LatexEquationGenerator.runtimeconfig.json
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\LatexEquationGenerator.dll
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\LatexEquationGenerator.pdb
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.csproj.AssemblyReference.cache
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.AssemblyInfoInputs.cache
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.AssemblyInfo.cs
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.csproj.CoreCompileInputs.cache
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.dll
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\refint\LatexEquationGenerator.dll
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.pdb
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.genruntimeconfig.cache
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\ref\LatexEquationGenerator.dll
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\bin\Debug\net6.0\CommandLine.dll
+C:\Users\imbak\develop\2023-01\LatexEquationGenerator\LatexEquationGenerator\obj\Debug\net6.0\LatexEquationGenerator.csproj.CopyComplete
